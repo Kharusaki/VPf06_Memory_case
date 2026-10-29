@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Bot data
+uploads/
+memory/
+chroma/
+
+# Helper/test scripts
+make_docs.py
+fix_prompt.py
+fix_prompt2.py
+fix3.py
+show_prompt.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+make_docs.py
